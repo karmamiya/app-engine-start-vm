@@ -1,5 +1,6 @@
 # app-engine-start-vm
 使用Google App engine定时控制Google Computer Engine实例开关机。
+如果想关闭控制，在App engine设置中，停用此应用即可。
 
 视频教程：
 https://www.youtube.com/watch?v=5e-YeeZ3KMU
