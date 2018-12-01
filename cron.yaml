@@ -1,4 +1,7 @@
 cron:
 - description: run instance
   url: /vm/start
-  schedule: every day 00:00
+  schedule: every day 07:00
+  - description: stop instance
+  url: /vm/stop
+  schedule: every day 01:00
