@@ -5,6 +5,6 @@ cron:
   timezone: Asia/Shanghai
   - description: stop instance
   url: /vm/stop
-  schedule: every day 01:00
+  schedule: every day 00:50
   timezone: Asia/Shanghai
   
